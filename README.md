@@ -47,7 +47,7 @@ GHOST-PARTISAN is provided "as-is." While it utilizes industry-standard encrypti
 ---
 
 ## 💬 Community & Support
-* **Found a bug?** Please open an [Issue](https://github.com/yourlink/issues).
+* **Found a bug?** Please open an [Issue](https://github.com/ghost-partisan/ghost-partisan-desktop/issues).
 * **Want to contribute?** We are currently looking for testers for the upcoming Android/Kotlin build.
 * **B2B/Enterprise:** For private relay infrastructure or white-labeling, contact us via the site.
 
