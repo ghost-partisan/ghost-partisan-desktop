@@ -4,7 +4,7 @@
 
 GHOST-PARTISAN is a portable Windows communication suite designed for journalists, activists, and privacy enthusiasts who require high-level anonymity without the footprint of mainstream apps.
 
-[🌐 Visit Official Landing Page](https://partisan-dev.page.gd) | [🛒 Get License Key](https://payhip.com/b/YOUR_ID)
+[🌐 Visit Official Landing Page](https://partisan-dev.page.gd) | [🛒 Get License Key](https://payhip.com/b/4ydQY)
 
 ---
 
